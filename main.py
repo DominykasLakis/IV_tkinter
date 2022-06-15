@@ -95,5 +95,3 @@ soc_l.grid(row=6, column=2)
 soc.grid(row=6, column=3)
 langas.mainloop()
 
-
-print(sumoketa())
