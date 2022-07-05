@@ -20,6 +20,7 @@ def ideti():
         pickle.dump(sarasas, irasymas)
         langeliai()
 
+
 def visi():
     for viskas in sarasas:
         visi_irasai.insert(0, viskas)

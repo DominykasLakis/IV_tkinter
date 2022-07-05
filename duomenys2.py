@@ -35,7 +35,7 @@ def atideta_mokesciams():
 
 def draudimas():
     siandien = date.today()
-    if siandien.day == 15:
+    if siandien.day == 1:
         return "Mėnesio pradžia, sumokėti PSD"
 
 def sumoketa():
